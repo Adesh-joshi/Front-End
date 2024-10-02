@@ -30,7 +30,3 @@ function add() {
 
 
 console.log(add(...joinedArray)) // Sum of array
-
-
-
-
